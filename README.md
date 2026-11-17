@@ -1,1 +1,1 @@
-# three-finger-hand-firmware
+# twindex-3f-plus-firmware
